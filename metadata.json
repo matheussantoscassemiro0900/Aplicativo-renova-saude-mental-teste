@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Renova - teste",
+  "description": "A emotional well-being companion app helping users through life transitions with daily tasks, gamification, and AI support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
